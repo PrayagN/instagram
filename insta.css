@@ -1,0 +1,157 @@
+body{
+    background-color:whitesmoke;
+    
+}
+
+
+.left-section{
+    margin-left: 230px;
+
+    float: left;
+}
+.right-section{
+ 
+    width: 350px;
+    height: 380px;
+    background-color:white;
+    float: left;
+    margin-top: 31px;
+    border: 1;
+    border-color: lawngreen;
+}
+
+
+
+.in{
+     padding-left: 86px;
+     color: black;
+     font-size: 30px;
+    fot
+}
+
+.email{
+     margin-left: 60px;
+
+    
+}
+.form{
+    width:250px;
+    height: 30px;
+    margin-left: 30px;
+    margin-top: 6px;
+    background-color: whitesmoke;
+    border:0;
+    font-family: inherit;
+    padding-left: 10px;
+}
+.login{
+   
+    width: 260px;
+    height: 30px;
+    margin-left: 30px;
+    margin-top: 15px;
+    background-color:#0095f6;
+    border-radius: 4px;
+    cursor: pointer;
+    border: 0;
+}
+.line{
+
+    margin-left: 32px;
+    margin-top: 20px;
+    color: darkgray;
+
+}
+.or{
+    margin-left: 150px;
+    margin-top: -27px;
+    color: darkgray;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: none;
+}
+.f{
+    padding-left: 70px;
+    cursor: pointer;
+}
+.lf{
+    margin-left: 37px;
+    margin-top: -33px;
+    color:  #385185;
+    font-weight: 500;
+    font-size: 15px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    cursor: pointer;
+}
+.fp{
+    color: #00376b;
+    font-size: 15px;
+    margin-left: 50px;
+}
+.last-box{
+     width: 350px;
+     height: 65px;
+     background: white;
+     margin-top: 60px;
+}
+.lb{
+    cursor: pointer;
+    padding-left: 60px;
+    padding-top: 22px;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: initial;
+}
+.lb1{
+    padding-left: 220px;
+    color: #0095f6;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: -31px;
+    cursor: pointer;
+}
+.gta{
+    margin-left: 130px;
+    font-family: sans-serif;
+    font-size: 15px;
+    cursor: pointer;
+}
+.img1{
+    margin-left: 14px;
+    width: 134px;
+    height: 40px;
+    cursor: pointer;
+    
+}
+.img2{
+   
+    margin-left: 164px;
+    width: 150px;
+    height: 136px;
+    margin-top: -88px;
+    cursor: pointer;
+    
+}
+.img{
+    
+    width: 243px;
+    margin-left: -655px;
+    margin-top: 97px;
+    height: 433px;
+    
+}
+.footer{
+    margin-left:-313px;
+    font-size: 15px;
+   
+    color: darkgray;
+    
+}
+.last-text{
+    width: 100%;
+    height: 50px;
+    margin-left: -159px;
+    color: darkgray;
+    font-size: 15px;
+}
